@@ -27,6 +27,7 @@ public class ConvertDATA {
         JSONObject terrainJSON = JSONObject.fromObject(mainJSON);
         int typeTerrain;
         int i;
+        String test="CECI EST UN TEST";
         double prixMin;
         String prix_m2_min;
         String prix_m2_max;
